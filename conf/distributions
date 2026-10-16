@@ -1,0 +1,17 @@
+Origin: Hermian Security
+Label: Hermian
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: Hermian releases
+SignWith: yes
+
+Origin: Hermian Security
+Label: Hermian
+Suite: beta
+Codename: beta
+Architectures: amd64 arm64
+Components: main
+Description: Hermian prereleases and releases
+SignWith: yes
