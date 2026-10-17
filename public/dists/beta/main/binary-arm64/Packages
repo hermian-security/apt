@@ -1,18 +1,18 @@
 Package: hermian
-Version: 0.1.0~beta.11-1
+Version: 0.1.0~beta.12-1
 Architecture: arm64
 Homepage: https://hermian.me
 Maintainer: Hermian Security <contact@hermian.me>
-Installed-Size: 4739
+Installed-Size: 4746
 Depends: libc6 (>= 2.33), libc6 (>= 2.34), libpam0g (>= 0.99.7.1), systemd
 Recommends: nftables
 Priority: optional
 Section: admin
-Filename: pool/main/h/hermian/hermian_0.1.0~beta.11-1_arm64.deb
-Size: 1748144
-SHA256: a979697abc7ec3445636d2c2e82d03c1435569607aae3385a04992bef6ccb920
-SHA1: 1573cfab5f9e3de13d08506295124500cbc74600
-MD5sum: e9447137f8762e836143089fe49a5984
+Filename: pool/main/h/hermian/hermian_0.1.0~beta.12-1_arm64.deb
+Size: 1748340
+SHA256: f2f0839d708ece0f49540e294aee8ab08b8cbf329f8ee4702206d87bb1822e78
+SHA1: 66e9d7d22f206ae0272b8e3a775838e895394e0c
+MD5sum: 9731c122f851f5465030db399305a86a
 Description: Silent by default. Loud when it matters. Lightweight defensive security daemon
  for Linux.
  Hermian detects high-confidence signs of compromise on a Linux host using
