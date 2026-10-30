@@ -1,0 +1,23 @@
+Package: hermian
+Version: 0.1.0-1
+Architecture: amd64
+Homepage: https://hermian.me
+Maintainer: Hermian Security <contact@hermian.me>
+Installed-Size: 6031
+Depends: libc6 (>= 2.33), libc6 (>= 2.34), libpam0g (>= 0.99.7.1), systemd
+Recommends: nftables
+Priority: optional
+Section: admin
+Filename: pool/main/h/hermian/hermian_0.1.0-1_amd64.deb
+Size: 2141832
+SHA256: 06305b13b90b0d037c70123251ce27402332ba553b346a73881ffb3ecdab3d55
+SHA1: 7a36062df0dab0ff56648d648304ca2dceeb1675
+MD5sum: 12cd150ba60f456c5c4034641bf9250f
+Description: Silent by default. Loud when it matters. Lightweight defensive security daemon
+ for Linux.
+ Hermian detects high-confidence signs of compromise on a Linux host using
+ deterministic, contextual detection (process chains, SSH abuse, persistence,
+ privilege escalation, anomalous network behavior) and alerts locally or via
+ Telegram, email or webhook. No dashboard, no YAML rules, no alert fatigue:
+ install, enable, forget - Hermian only interrupts you when it matters.
+

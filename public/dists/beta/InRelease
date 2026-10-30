@@ -5,35 +5,35 @@ Origin: Hermian Security
 Label: Hermian
 Suite: beta
 Codename: beta
-Date: Sat, 17 Oct 2026 00:55:41 UTC
+Date: Fri, 30 Oct 2026 20:54:26 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Hermian prereleases and releases
 MD5Sum:
- 1ea3f3d045d0b56a426b79ee90575326 1014 main/binary-amd64/Packages
- 03a79e76368f4a2b1c75132de1c33f54 671 main/binary-amd64/Packages.gz
+ 4c321e6263506cc5b0c23b189fc4acc0 998 main/binary-amd64/Packages
+ 8580dd0adbc27caa71c312bc36214d3b 660 main/binary-amd64/Packages.gz
  5977ef9d9f578d656bf33bb4d589b13a 136 main/binary-amd64/Release
- 5186551de3343cf8d323c4407622a806 1014 main/binary-arm64/Packages
- 1a148c014e435620f929d75f690fc5a0 669 main/binary-arm64/Packages.gz
+ 430c52029eda5fefe701faa27da2ef5b 998 main/binary-arm64/Packages
+ 5c613332fe78e87e7fb06f0882c46d0e 660 main/binary-arm64/Packages.gz
  f58cd77419950cb179072d75a755c12d 136 main/binary-arm64/Release
 SHA1:
- ffc6f6e4de6db8708dc9c1d7dfac41124fa3956e 1014 main/binary-amd64/Packages
- c1941fbca645a42e0ff6a32a5a292fccb82aa714 671 main/binary-amd64/Packages.gz
+ 7cd910ccf6e1826d1ee22991221f0d7180c24c5e 998 main/binary-amd64/Packages
+ 5ca9c0e5725dc91e8c680e8c67a80ffd829a7412 660 main/binary-amd64/Packages.gz
  ccb10e894222e5894b555f7d9d3de398b76ac438 136 main/binary-amd64/Release
- 1a0073386f6c2c0e3c1cff2d4318b030a753a47c 1014 main/binary-arm64/Packages
- 02e158fdec912be311a6972eae90e725de638897 669 main/binary-arm64/Packages.gz
+ 744e4b45d26d27c14ceb5a35a07d89585244522b 998 main/binary-arm64/Packages
+ af54d3182f3686cdb9875bbfec81dee1485f88f1 660 main/binary-arm64/Packages.gz
  0d625b482fe1620eba2309f439d50f9c168f434f 136 main/binary-arm64/Release
 SHA256:
- dc4d8d842c7060781c0a340433acb633610193edcd9ecf01e44716b241166c1f 1014 main/binary-amd64/Packages
- 1bb6cd8420f5da224bdaecbc1cbba47b6b589b9d1156dd4ea534ade025bb0541 671 main/binary-amd64/Packages.gz
+ 3129fc2787abac299534d8ae9f0f6e57e2944309aba47ed37fbadcfe028fc011 998 main/binary-amd64/Packages
+ 9f16c0d509fd396913dccf65a40f52fcf5f3ca4b2ea73da6d79bc9c99954a94a 660 main/binary-amd64/Packages.gz
  74abc7b9f746c21a524dff96e2c147a73e0017b86d7176c9242fdd35bcc0f650 136 main/binary-amd64/Release
- 80ad81b4935fdeab9183fb1c64807ca4390d689928b865281af0c0914bee8cc0 1014 main/binary-arm64/Packages
- bb266e5edee5459ef44eed3f06753547567c10ba06c3ef87a8e4b6712a0d88e0 669 main/binary-arm64/Packages.gz
+ 74d774d822dae62bbf0e9af7f430d811fe4d054e1f82dba2da6f656502c00640 998 main/binary-arm64/Packages
+ c3d6d13e3fb838ffea9b9c621970a972c8be2e8c7c13982520cc06282be73aa1 660 main/binary-arm64/Packages.gz
  acff4a43ea26defc4330253f27f29a6bf38d349b8be94f13fe62bfe9b646e640 136 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRNVJSiQN+UCWtDFO6xdBGVA328NgUCatLHjQAKCRCxdBGVA328
-NlPAAP9imL6Jk8pdY9LRnhlNPsa6NEBSyQ8C5QpR4Id09xI2+AD/SxbDsMc/moyu
-J/uuwMiT5PNxZzv02aeMvnbRHXv0rwE=
-=Vjpz
+iHUEARYKAB0WIQRNVJSiQN+UCWtDFO6xdBGVA328NgUCauUEAgAKCRCxdBGVA328
+No9gAQCN69nGyGLqrfnpdnYQgRBiaIKf/Uo3mmNE2dSHiszACwEAjTd5FV+YfvkJ
+N8XPzIYH49Qo0rPJDTQHngRc3WUcnQA=
+=Wyuu
 -----END PGP SIGNATURE-----

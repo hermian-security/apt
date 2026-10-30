@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Hermian Security
+Label: Hermian
+Suite: stable
+Codename: stable
+Date: Fri, 30 Oct 2026 20:54:26 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Hermian releases
+MD5Sum:
+ 4c321e6263506cc5b0c23b189fc4acc0 998 main/binary-amd64/Packages
+ 8580dd0adbc27caa71c312bc36214d3b 660 main/binary-amd64/Packages.gz
+ b19d05d24384fa9c0c36532311215fac 122 main/binary-amd64/Release
+ 430c52029eda5fefe701faa27da2ef5b 998 main/binary-arm64/Packages
+ 5c613332fe78e87e7fb06f0882c46d0e 660 main/binary-arm64/Packages.gz
+ d0aff576bdc1716f74d92687387a0da6 122 main/binary-arm64/Release
+SHA1:
+ 7cd910ccf6e1826d1ee22991221f0d7180c24c5e 998 main/binary-amd64/Packages
+ 5ca9c0e5725dc91e8c680e8c67a80ffd829a7412 660 main/binary-amd64/Packages.gz
+ 91ce123a2ea137418248621ac0d2c436579503ce 122 main/binary-amd64/Release
+ 744e4b45d26d27c14ceb5a35a07d89585244522b 998 main/binary-arm64/Packages
+ af54d3182f3686cdb9875bbfec81dee1485f88f1 660 main/binary-arm64/Packages.gz
+ ef766fa83ce9b50221952147f5a02226677b23d5 122 main/binary-arm64/Release
+SHA256:
+ 3129fc2787abac299534d8ae9f0f6e57e2944309aba47ed37fbadcfe028fc011 998 main/binary-amd64/Packages
+ 9f16c0d509fd396913dccf65a40f52fcf5f3ca4b2ea73da6d79bc9c99954a94a 660 main/binary-amd64/Packages.gz
+ 66faa537ef28bb239729894f1e6c745d7e8ae8d359242aae07512298849f6efc 122 main/binary-amd64/Release
+ 74d774d822dae62bbf0e9af7f430d811fe4d054e1f82dba2da6f656502c00640 998 main/binary-arm64/Packages
+ c3d6d13e3fb838ffea9b9c621970a972c8be2e8c7c13982520cc06282be73aa1 660 main/binary-arm64/Packages.gz
+ 47e520e46e99c251302e1fce94087b41d168f7f84934bd2783590b3e910bf555 122 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRNVJSiQN+UCWtDFO6xdBGVA328NgUCauUEAgAKCRCxdBGVA328
+NgmoAQCTItYD4QhBXa5dYjI2j88sfA/EcSC8WLIPJKq+CWWKOwEAsBlhw98HCjTL
+mXCTiX4Alzo2rvJmmI7rDWcn3Ygu8AA=
+=VnuD
+-----END PGP SIGNATURE-----
